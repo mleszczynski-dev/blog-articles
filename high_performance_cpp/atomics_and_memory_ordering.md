@@ -1,4 +1,4 @@
-# Atomics and Memory Ordering in C++
+# Atomics and Memory Ordering
 
 ## Sources
 
